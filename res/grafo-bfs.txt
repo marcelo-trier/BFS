@@ -1,0 +1,15 @@
+# caracteres: 
+# '@' -->	nomes dos vertices[    @abcdef    ]
+# '*' --> 	indice vertice inicial[    *1    ]
+# 'd' --> 	direcionado[  d1   ou    d0   ]
+@rstuvwxy
+*1
+#r s 	t 	u 	v 	w 	x 	y
+0	1	0	0	1	0	0	0
+1	0	0	0	0	1	0	0
+0	0	0	1	0	1	1	0
+0	0	1	0	0	0	1	1
+1	0	0	0	0	0	0	0
+0	1	1	0	0	0	1	0
+0	0	1	1	0	1	0	1
+0	0	0	1	0	0	1	0
